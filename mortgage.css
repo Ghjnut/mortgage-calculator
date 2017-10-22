@@ -1,0 +1,23 @@
+.mortgage {
+  width: 200px;
+}
+
+.mortgage div {
+  margin-top: 4px;
+}
+
+.mortgage label {
+  width: 80px;
+  text-align: right;
+  display: inline-block;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.mortgage .short {
+  width: 40px;
+}
+
+.mortgage .long {
+  width: 80px;
+}
